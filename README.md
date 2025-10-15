@@ -4,7 +4,7 @@ I am an **aspiring Full Stack Developer**, focused on mastering **Java, Spring B
 
 I am committed to **continuous learning, building practical skills, and documenting my progress** here on GitHub.
 
-Outside of tech, I enjoy **watching anime, writing poetry and scripts, playing piano and guitar, and exploring new places**, which fuel creativity, curiosity, and perspective.
+Outside of tech, I enjoy **watching anime,music, and exploring new places**, which fuel creativity, curiosity, and perspective.
 
 ---
 
