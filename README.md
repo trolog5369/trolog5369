@@ -32,10 +32,8 @@ Outside of tech, I enjoy **watching anime,music, and exploring new places**, whi
 ---
 
 ## 📈 GitHub Stats
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trolog5369&show_icons=true&theme=radical&cache_seconds=0)
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trolog5369&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect with me
 
