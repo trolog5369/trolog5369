@@ -1,43 +1,32 @@
-# Pranav Gaikwad
+<h1 align="center">Hi 👋, I'm Pranav Gaikwad</h1>
+<h3 align="center">Aspiring Java Full Stack Developer | Learning Java → Spring Boot → React → Deployment</h3>
 
-I am an **aspiring Full Stack Developer**, currently focused on mastering **Java, Spring Boot, React, and DSA**. My goal is to become **job-ready in Full Stack development**, and eventually transition into **AI Full Stack**, combining backend, frontend, and AI/ML to build intelligent, scalable applications.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trolog5369&label=Profile%20views&color=0e75b6&style=flat" alt="trolog5369" /> </p>
 
-I am committed to **continuous learning, building practical skills, and documenting my progress** here on GitHub.
+- 🔭 I’m currently learning **Core Java** and tracking my coding journey in [brocodejava](https://github.com/Trolog5369/brocodejava)
+- 👨‍💻 All my projects are on [GitHub](https://github.com/Trolog5369)
+- ⚡ Fun fact: I track my daily coding progress like a journal
 
-Outside of tech, I enjoy **watching anime,music, and exploring new places**, which fuel creativity, curiosity, and perspective.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_pranav.xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pranav.xr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranavgaikwad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages & Tools:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
-## 🛠️ Skills & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logoColor=white)
-
----
-
-## 📚 Current Roadmap
-
-- Complete **Java Full Stack roadmap**: Core Java → Advanced Java → Spring Boot → React → Deployment  
-- Learn **AI/ML basics** and integrate with Full Stack projects in the future  
-- Build **real-world projects** to showcase practical skills  
-
----
-
-## 📈 GitHub Stats
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trolog5369&show_icons=true&theme=radical&cache_seconds=0)
-
-
-## 📫 Connect with me
-
-- **LinkedIn:** [Pranav Gaikwad](https://www.linkedin.com/in/pranav-gaikwad-b09247350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **Email:** pranavgaikwad847@gmail.com
-
-*"Consistency beats talent. Growth comes from effort."*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trolog5369&show_icons=true&locale=en&layout=compact" alt="trolog5369" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trolog5369&show_icons=true&locale=en" alt="trolog5369" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trolog5369&" alt="trolog5369" /></p>
