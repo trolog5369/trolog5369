@@ -49,11 +49,16 @@ Outside of tech, I enjoy watching **anime**, listening to **music**, and explori
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/pranav-gaikwad-b09247350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/_pranav.xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="mailto:pranavgaikwad847@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pranav-gaikwad-b09247350" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_pranav.xr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:pranavgaikwad847@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
 </p>
-
 ---
 
 *"Consistency beats talent. Growth comes from effort."*
