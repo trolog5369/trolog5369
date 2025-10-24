@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pranav Gaikwad</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Learning Java → Spring Boot → React</h3>
+<h3 align="center">Aspiring Java Full Stack Developer | Building skills in Java → Spring Boot → React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Trolog5369&label=Profile%20views&color=0e75b6&style=flat" alt="trolog5369" /> </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am an aspiring Full Stack Developer, currently focused on mastering **Java, Spring Boot, React, and DSA**. My goal is to become job-ready in Full Stack development, and eventually transition into **AI Full Stack**, combining backend, frontend, and AI/ML to build intelligent, scalable applications.  
+I am an aspiring Full Stack Developer focused on mastering **Java, Spring Boot, React, and DSA**. My goal is to become job-ready in Full Stack development and eventually integrate **AI/ML** into scalable, intelligent applications.  
 
-I am committed to continuous learning, building practical skills, and documenting my progress here on GitHub.  
+I am passionate about continuous learning, building practical skills, and documenting my progress here on GitHub.  
 
-Outside of tech, I enjoy watching **anime**, listening to **music**, and exploring new places, which fuel creativity, curiosity, and perspective.
+Outside of tech, I enjoy watching **anime**, listening to **music**, and exploring new places—activities that fuel my creativity and curiosity.
 
 ---
 
