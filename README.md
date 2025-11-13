@@ -1,97 +1,95 @@
-<h1 align="center">Hi 👋, I'm Pranav Gaikwad</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Building consistency, skills, and real-world impact</h3>
+<!-- ULTIMATE DARK-THEME GITHUB PROFILE README -->
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pranav%20Gaikwad%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+<h3 align="center">Aspiring Java Full Stack Developer | Turning Consistency into Code</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Trolog5369&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Trolog5369&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-I’m an **IT undergraduate** and an aspiring **Java Full Stack Developer**, currently mastering the roadmap —  
-**Core Java → Advanced Java → Spring Boot → React → Deployment**.  
+Hey there! I’m **Pranav Gaikwad**, an **IT undergrad** and a passionate **Java Full Stack Developer in progress**.  
 
-My journey began with a simple goal: *to understand how things work — and build them myself.*  
-What started as curiosity turned into consistency. Every day now, I push myself to learn, code, and grow.  
+I started this journey not to chase trends — but to **build skills that last**.  
+Right now, I’m deep into **Java → Spring Boot → React**, aiming to become a developer who can craft *complete, scalable applications*.  
 
-I’m deeply passionate about **problem-solving**, **clean code**, and creating systems that actually work in the real world.  
-Beyond development, I’m exploring how **AI/ML** and **Web3** can merge with full-stack development to create scalable, intelligent applications.
+I believe **discipline and obsession** beat raw talent every single day.  
+Every commit here is a small step in my mission to become **industry-ready**, merge **AI with Full Stack**, and create **something that actually matters**.
 
-I believe in one rule:  
-> “Don’t aim to be better than others, aim to be better than who you were yesterday.”  
-
-Outside coding — I hit the gym, watch anime, and read about self-growth, mindset, and tech trends that redefine the future.  
+Outside tech, I lift heavy, explore anime worlds, and live by the principle —  
+> “Become so consistent they think you’re obsessed.”
 
 ---
 
-## 🛠️ Tech Stack Overview  
+## ⚙️ Tech Stack Overview  
 
-### 🔹 **Current Focus**
+### 💻 **Currently Working With**
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Java, Spring Boot  
 - **Database:** MySQL  
 - **Version Control:** Git, GitHub  
 - **Tools:** VS Code, IntelliJ IDEA  
 
-### 🔹 **Future Learning Path**
-- **UI/UX Design:** Figma, Design Thinking  
-- **DevOps:** Docker, CI/CD, AWS  
-- **AI/ML Integration:** Python, TensorFlow, OpenAI APIs  
-- **Web3 & Blockchain:** Solidity, Smart Contracts  
-- **Full Stack Mastery:** Java + React + Spring Boot + Cloud  
+### 🌐 **Future Learning Path**
+- 🎨 **UI/UX:** Figma, Design Thinking  
+- ☁️ **DevOps:** Docker, CI/CD, AWS  
+- 🧠 **AI/ML:** Python, TensorFlow, OpenAI APIs  
+- 🔗 **Web3:** Solidity, Smart Contracts  
+- 💪 **Master Plan:** Java + React + Spring Boot + Cloud + AI = Full Stack 2.0  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,docker,aws,python,figma&perline=7" />
 </p>
 
 ---
 
-## 🚀 My Learning Journey  
+## 🧭 My Learning Journey  
 
-📘 **Java Foundations** — [BroCode Java Course Progress](https://github.com/Trolog5369/Java-FullStack-Roadmap/tree/main/Core%20Java)  
-🧩 **Upcoming:** DSA Practice, Backend Deep Dive (JDBC, APIs), Frontend Integration (React), and Spring Boot Projects  
-🔜 **Future:** Real-world Full Stack Projects, System Design, DevOps & Cloud  
-
-Every repository I commit reflects a part of this journey — from beginner logic to production-grade systems.  
+| Phase | Focus | Status |
+|-------|--------|--------|
+| 🚀 **Phase 1** | Core Java — OOP, Arrays, Inheritance | ✅ Completed |
+| 🔥 **Phase 2** | Advanced Java — Exception Handling, Collections, JDBC | 🔄 In Progress |
+| ⚡ **Phase 3** | Spring Boot — REST APIs, JPA, JWT, Security | 🕐 Upcoming |
+| 💻 **Phase 4** | React — Components, Hooks, API Integration | 🕐 Upcoming |
+| ☁️ **Phase 5** | Deployment — CI/CD, Docker, AWS | 🕐 Upcoming |
+| 🤖 **Phase 6** | AI & ML Integration | 🔮 Future |
+| 🌐 **Phase 7** | Web3, Blockchain, and Beyond | 🔮 Future |
 
 ---
 
 ## 📚 Current Roadmap  
 
-- Master **Java Full Stack Development** (Java → Spring Boot → React → Deployment)  
-- Build **3+ full-stack projects** that mirror industry architecture  
-- Strengthen **DSA & System Design** for placements  
-- Explore **AI integration** in web applications  
-- Prepare for **internship & job interviews** with hands-on confidence  
+- Complete **Java Full Stack Roadmap**  
+- Master **DSA** and **System Design**  
+- Build **real-world full stack projects**  
+- Learn **UI/UX Design** for better front-end understanding  
+- Dive into **DevOps + Cloud + AI integration**  
+- Secure a **high-paying, impactful role** as a Full Stack Developer  
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trolog5369&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Trolog5369&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trolog5369&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trolog5369&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Trolog5369&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Trolog5369&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
-</p>
+---
+
+## 📂 My Learning Projects  
+
+📘 [**BroCode Java**](https://github.com/Trolog5369/BroCode-Java) → Core Java foundation  
+🧩 **Upcoming:** DSA Repository, Backend API Projects, and Full Stack Integrations  
+💡 *Every repo here documents my growth — from syntax to systems.*
 
 ---
 
@@ -99,31 +97,32 @@ Every repository I commit reflects a part of this journey — from beginner logi
 
 <p align="center">
   <a href="mailto:pranavgaikwad847@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=ff5555" />
   </a>
   <a href="https://www.linkedin.com/in/pranav-gaikwad-b09247350" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=00c8ff" />
   </a>
   <a href="https://instagram.com/_pranav.xr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-24243e?style=for-the-badge&logo=instagram&logoColor=ff69b4" />
   </a>
 </p>
 
 ---
 
-## 🌱 Future Roadmap  
+## 🌱 Future Vision  
 
-- 🧠 Master **System Design & DSA**
-- 🎨 Learn **UI/UX Design**
-- ☁️ Understand **DevOps, Docker & AWS**
-- 🤖 Build **AI-integrated Web Apps**
-- 🌐 Explore **Web3 & Blockchain**
-- 💼 Secure a **high-paying development role** and keep pushing limits
+- 🧠 Become a **Full Stack + AI Developer**  
+- 💡 Build systems that merge **intelligence with design**  
+- ☁️ Master **Cloud & DevOps** fundamentals  
+- 🔗 Explore **Blockchain-based web apps**  
+- 🚀 Constantly evolve — one commit at a time  
 
 ---
 
 <div align="center">
 
-> 💬 “Discipline builds consistency, consistency builds mastery.”
+### 💬 *“Discipline creates consistency, consistency creates mastery — and mastery creates impact.”*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
