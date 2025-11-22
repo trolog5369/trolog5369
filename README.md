@@ -87,7 +87,7 @@ Outside tech, I lift heavy, explore anime worlds, and live by the principle —
 
 ## 📂 My Learning Projects  
 
-📘 [**BroCode Java**](https://github.com/Trolog5369/BroCode-Java) → Core Java foundation  
+📘 [**BroCode Java**](https://github.com/trolog5369/brocodejava) → Core Java foundation  
 🧩 **Upcoming:** DSA Repository, Backend API Projects, and Full Stack Integrations  
 💡 *Every repo here documents my growth — from syntax to systems.*
 
