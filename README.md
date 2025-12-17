@@ -10,31 +10,68 @@
 
 ---
 
+## 🏅 Milestones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Core_Java-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Upcoming-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Upcoming-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Upcoming-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployment-Upcoming-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Integration-Future-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web3-Future-lightgrey?style=for-the-badge" />
+</p>
+
+---
+
 ## 👨‍💻 About Me  
 
 Hey there! I’m **Pranav Gaikwad**, an **IT undergrad** and a passionate **Java Full Stack Developer in progress**.  
 
-I started this journey not to chase trends — but to **build skills that last**.  
-Right now, I’m deep into **Java → Spring Boot → React**, aiming to become a developer who can craft *complete, scalable applications*.  
+I started this journey to **build skills that last**, not chase trends.  
+I’m focused on **Java → Spring Boot → React**, aiming to craft *complete, scalable applications*.  
 
-I believe **discipline and obsession** beat raw talent every single day.  
-Every commit here is a small step in my mission to become **industry-ready**, merge **AI with Full Stack**, and create **something that actually matters**.
+I believe **discipline and obsession** beat raw talent every day.  
+Every commit here is a step toward becoming **industry-ready**, merging **AI with Full Stack**, and creating **something that actually matters**.
 
 Outside tech, I lift heavy, explore anime worlds, and live by the principle —  
 > “Become so consistent they think you’re obsessed.”
 
 ---
 
+## 🏁 Core Milestone Achieved
+
+### ✅ Core Java — Completed (Dec 2025)
+
+Mastered:
+
+- Java fundamentals & control flow
+- Object-Oriented Programming (OOP)
+- Interfaces & abstraction
+- Exception handling
+- Enums
+- Multithreading (Thread, Runnable, daemon threads, join)
+- Java Time API
+- File handling & audio playback
+- Console-based project design
+
+📌 **Final Project:**  
+**Alarm Clock Application** — demonstrates multithreading, time handling, and audio playback.
+
+This proves I **finish what I start** and focus on **practical implementation**.
+
+---
+
 ## ⚙️ Tech Stack Overview  
 
-### 💻 **Currently Working With**
+### 💻 Currently Working With
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Java, Spring Boot  
 - **Database:** MySQL  
 - **Version Control:** Git, GitHub  
 - **Tools:** VS Code, IntelliJ IDEA  
 
-### 🌐 **Future Learning Path**
+### 🌐 Future Learning Path
 - 🎨 **UI/UX:** Figma, Design Thinking  
 - ☁️ **DevOps:** Docker, CI/CD, AWS  
 - 🧠 **AI/ML:** Python, TensorFlow, OpenAI APIs  
@@ -89,7 +126,7 @@ Outside tech, I lift heavy, explore anime worlds, and live by the principle —
 
 📘 [**BroCode Java**](https://github.com/trolog5369/brocodejava) → Core Java foundation  
 🧩 **Upcoming:** DSA Repository, Backend API Projects, and Full Stack Integrations  
-💡 *Every repo here documents my growth — from syntax to systems.*
+💡 *Every repo documents growth — from syntax to systems.*
 
 ---
 
