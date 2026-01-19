@@ -98,7 +98,7 @@ More repositories will appear slowly — with higher standards each time.
 
 ---
 
-## 🎯 Direction (Stable, Not Trend-Driven)
+## 🎯 Direction 
 
 My direction is clear:
 - become a **strong backend engineer**
