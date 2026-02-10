@@ -11,40 +11,16 @@
 
 ---
 
-## 🧠 Who I Am
+## About me
 
-I’m **Pranav Gaikwad**, an IT undergraduate who approaches software engineering as a **long-term craft**, not a race.
+I’m Pranav Gaikwad, an IT undergraduate focused on building strong backend fundamentals. I’m currently working deeply with Java core concepts, collections, and JDBC  and I prefer understanding how things work at a low level before relying on frameworks. I learn by writing code, breaking it, fixing it, and revisiting the same concepts until they feel natural. This GitHub reflects steady progress rather than shortcuts, with an emphasis on clarity, correctness, and long-term growth as a backend engineer.
 
-I don’t jump stacks.  
-I don’t chase buzzwords.  
-I move forward only when the **foundation is solid**.
-
-What defines me is not the number of technologies I list, but:
-- how deeply I understand what I use  
-- how consistently I show up  
-- how seriously I treat fundamentals  
-
-Most people fail in this field due to impatience, not lack of ability.  
-My goal is simple: **master the basics so well that advanced systems become inevitable.**
 
 ---
 
-## 🧱 How I Learn & Build
+## How I work
 
-I follow a few strict principles:
-
-**Depth before speed**  
-I don’t move on until I can explain, implement, and break what I’ve learned.
-
-**Code over claims**  
-Every concept must appear in code — as a project, refactor, or cleaner design.  
-If it’s not in a repository, I don’t count it.
-
-**Systems thinking**  
-I care about why something exists, where it fails, and how it scales —  
-not just how to make it work once.
-
-This philosophy is reflected across my repositories, from simple programs to backend-focused work.
+I follow a structured and disciplined approach to learning. I focus on fundamentals first, revisit concepts multiple times, and prefer clean, understandable solutions over rushed complexity. I document my progress through small but complete projects and incremental commits. If something exists in this repository, it reflects hands-on work and a clear understanding of why it was built that way and how it can be improved further.
 
 ---
 
